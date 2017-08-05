@@ -52,7 +52,7 @@
 	background-color: #e81962;
 }
 .mainslide div.pagers a.prev {
-	background-image: url('../images/icons/left_white_icon.png');
+	background-image: image-url('icons/left_white_icon.png');
 	background-repeat:no-repeat; 
 	background-position:50% 50%;
 }
