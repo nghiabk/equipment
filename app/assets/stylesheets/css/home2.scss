@@ -360,7 +360,7 @@ div.featured div.img div.hover_over a:hover {
 div.latest div.img div.hover_over a.link,
 div.featured div.img div.hover_over a.link {
   left:0; /*left:30%;*/
-  background-image: url('../images/icons/link.png');
+  background-image: image-url('icons/link.png');
   background-repeat:no-repeat; 
   background-position:50% 50%;
 }
