@@ -412,7 +412,7 @@ select {
   color:#fff;
 }
 #topHeader ul#currency li.active_currency, #topHeader ul#lang li.active_lang {
-  background:url('../images/icons/red_top_arrow.png') no-repeat center bottom;
+  background: image-url('icons/red_top_arrow.png') no-repeat center bottom;
 }
 
 /*============= ul#topNav ============*/
@@ -710,7 +710,7 @@ select {
   width:13px;
   height:7px;
   display: block;
-  background: url('../images/icons/red_top_arrow.png') no-repeat left top;
+  background: image-url('icons/red_top_arrow.png') no-repeat left top;
 }
 #mainNav #cart div.cart_content ul li {
   padding:12px;
@@ -1057,7 +1057,7 @@ footer ul.socials li a:hover {
 }
 /* twitter */
 footer ul.socials li a.twitter {
-  background-image:url('../images/icons/so_twitter.png');
+  background-image: image-url('icons/so_twitter.png');
 }
 footer ul.socials li a.twitter:hover {
   background-color: #009fe3;
@@ -1065,7 +1065,7 @@ footer ul.socials li a.twitter:hover {
 }
 /* facebook */
 footer ul.socials li a.facebook {
-  background-image:url('../images/icons/so_face.png');
+  background-image: image-url('icons/so_face.png');
 }
 footer ul.socials li a.facebook:hover {
   background-color: #266aa8;
@@ -1073,7 +1073,7 @@ footer ul.socials li a.facebook:hover {
 }
 /* google plus */
 footer ul.socials li a.googlep {
-  background-image:url('../images/icons/so_google.png');
+  background-image: image-url('icons/so_google.png');
 }
 footer ul.socials li a.googlep:hover {
   background-color: #e81962;
@@ -1081,7 +1081,7 @@ footer ul.socials li a.googlep:hover {
 }
 /* vimeo */
 footer ul.socials li a.vimeo {
-  background-image:url('../images/icons/so_vimeo.png');
+  background-image: image-url('icons/so_vimeo.png');
 }
 footer ul.socials li a.vimeo:hover {
   background-color: #af60a2;
@@ -1089,7 +1089,7 @@ footer ul.socials li a.vimeo:hover {
 }
 /* skype */
 footer ul.socials li a.skype {
-  background-image:url('../images/icons/so_skype.png');
+  background-image: image-url('icons/so_skype.png');
 }
 footer ul.socials li a.skype:hover {
   background-color: #00aff0;
@@ -1097,7 +1097,7 @@ footer ul.socials li a.skype:hover {
 }
 /* linkedin */
 footer ul.socials li a.linked {
-  background-image:url('../images/icons/so_linked.png');
+  background-image: image-url('icons/so_linked.png');
 }
 footer ul.socials li a.linked:hover {
   background-color: #009640;
@@ -1215,7 +1215,7 @@ widget panel style
     -moz-text-shadow:0 1px 0 #000;
     -webkit-text-shadow:0 1px 0 #000;
     position: relative;
-    background:url('../images/icons/arrow_down.png') no-repeat right center;
+    background: image-url('icons/arrow_down.png') no-repeat right center;
     cursor:pointer;
   }
   #topHeader ul#topNav {
@@ -1236,7 +1236,7 @@ widget panel style
     position: absolute;
     top:-8px;
     left:50%;
-    background: url('../images/icons/red_top_arrow.png') no-repeat left top;
+    background: image-url('icons/red_top_arrow.png') no-repeat left top;
   }
   #topHeader ul#topNav li a:first-child {
     border:none;
@@ -1277,7 +1277,7 @@ widget panel style
     color:#444;
     /*line-height: 42px;*/
     position: relative;
-    background:url('../images/icons/arrow_down.png') no-repeat 88% center;
+    background: image-url('icons/arrow_down.png') no-repeat 88% center;
   }
   #mainNav nav > ul {
     display: none;
@@ -1300,7 +1300,7 @@ widget panel style
     position: absolute;
     top:-8px;
     left:30%;
-    background: url('../images/icons/red_top_arrow.png') no-repeat left top;
+    background: image-url('icons/red_top_arrow.png') no-repeat left top;
   }
   #mainNav nav > ul li {
     box-shadow: none;
@@ -1309,7 +1309,7 @@ widget panel style
     border-bottom:1px solid #ddd;
   }
   #mainNav nav > ul li a.hasdropdown {
-    background:url('../images/icons/arrow_right.png') no-repeat right center;
+    background: image-url('icons/arrow_right.png') no-repeat right center;
   }
   #mainNav nav > ul li, #mainNav nav > ul li a {
     margin:0;
