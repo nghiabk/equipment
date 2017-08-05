@@ -798,7 +798,7 @@ select {
   background:#e81962;
   margin:18px 0 51px 0;
   padding-bottom:27px;
-  background:url('../images/icons/slide_shadow.png') no-repeat center bottom;
+  background: image-url('icons/slide_shadow.png') no-repeat center bottom;
   position: relative;
 }
 #pageName div.name_tag {
@@ -810,7 +810,7 @@ select {
   content:"";
   display: block;
   height:5px;
-  background: transparent url('../images/icons/bg_dotted.png') repeat 50% 50%;
+  background: transparent image-url('icons/bg_dotted.png') repeat 50% 50%;
 }
 #pageName div.shapRight {
   width:19px;
@@ -819,7 +819,7 @@ select {
   position: absolute;
   left:0;
   top:100%;
-  background:url('../images/icons/pageName_shap.png') no-repeat 0 0;
+  background: image-url('icons/pageName_shap.png') no-repeat 0 0;
 }
 #pageName div.shapLeft {
   width:19px;
@@ -828,7 +828,7 @@ select {
   position: absolute;
   right:0;
   top:100%;
-  background:url('../images/icons/pageName_shap.png') no-repeat -19px 0;
+  background: image-url('icons/pageName_shap.png') no-repeat -19px 0;
 }
 #pageName p {
   margin:0;
@@ -871,7 +871,7 @@ footer h3 {
 }
 
 footer #info, footer #customer_serices, footer #extra, footer #my_account {
-  background:url('../images/icons/footer_sep.png') repeat-y 100% 0;
+  background: image-url('icons/footer_sep.png') repeat-y 100% 0;
 }
 
 /* all ul in footer */
@@ -890,7 +890,7 @@ footer #my_account ul li a:link, footer #my_account ul li a:visited {
   -webkit-text-shadow:0 1px 0 #000;
   -o-text-shadow:0 1px 0 #000;
   text-shadow:0 1px 0 #000;
-  background:url('../images/icons/arrow.png') no-repeat 0 50%;
+  background: image-url('icons/arrow.png') no-repeat 0 50%;
 }
 footer #info ul li a:hover, footer #info ul li a:active,
 footer #customer_serices ul li a:hover, footer #customer_serices ul li a:active,
@@ -915,17 +915,17 @@ footer #delivery ul li {
   text-shadow:0 1px 0 #000;
 }
 footer #delivery ul li.f_call {
-  background: url('../images/icons/microphone.png') no-repeat 0 50%;
+  background: image-url('icons/microphone.png') no-repeat 0 50%;
 }
 footer #delivery ul li.f_mail {
-  background: url('../images/icons/envelop.png') no-repeat 0 50%;
+  background: image-url('icons/envelop.png') no-repeat 0 50%;
 }
 footer #delivery ul li em.em_contact {
   width:42px;
   height:43px;
   float:left;
   margin-right:10px;
-  background: url('../images/icons/delivery_icon.png') no-repeat 0 -43px;
+  background: image-url('icons/delivery_icon.png') no-repeat 0 -43px;
 }
 footer #delivery ul li span {
   float:left;
@@ -955,7 +955,7 @@ footer div.tweets ul {
 }
 footer div.tweets ul li {
   padding:12px 0 12px 40px;
-  background:url('../images/icons/twitter_icon.png') no-repeat 0 50%;
+  background: image-url('icons/twitter_icon.png') no-repeat 0 50%;
   color:#999;
   -moz-text-shadow:0 1px 0 #000;
   -webkit-text-shadow:0 1px 0 #000;

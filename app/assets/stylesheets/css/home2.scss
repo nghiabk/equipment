@@ -367,7 +367,7 @@ div.featured div.img div.hover_over a.link {
 div.latest div.img div.hover_over a.cart,
 div.featured div.img div.hover_over a.cart {
   right:0; /*right:30%;*/
-  background-image: url('../images/icons/cart.png');
+  background-image: image-url('icons/cart.png');
   background-repeat:no-repeat; 
   background-position:50% 50%;
 }
