@@ -593,7 +593,7 @@ select {
 }
 #mainNav nav ul li a.hasdropdown {
   padding-right:18px;
-  background:url('../images/icons/arrow_down.png') no-repeat right 49%;
+  background: image-url('icons/arrow_down.png') no-repeat right 49%;
 }
 
 /* current nav */
@@ -611,7 +611,7 @@ select {
   width:13px;
   height:7px;
   display: block;
-  background:url('../images/icons/red_bottom_arrow.png') no-repeat left top;
+  background: image-url('icons/red_bottom_arrow.png') no-repeat left top;
 }
 
 /*=== submenu style ====*/
@@ -650,7 +650,7 @@ select {
   font-weight:600;
   text-transform:uppercase;
   color:#444;
-  background:url('../images/icons/arrow_right.png') no-repeat 10px center;
+  background: image-url('icons/arrow_right.png') no-repeat 10px center;
   
   -webkit-box-shadow:inset 0 1px 0 #fff;
   -moz-box-shadow:0 1px 0 #fff;
@@ -684,7 +684,7 @@ select {
 #mainNav #cart a.cart_dropdown {
   color:#444;
   padding-right:30px;
-  background:url('../images/icons/arrow_down.png') no-repeat 90% 50%;
+  background: image-url('icons/arrow_down.png') no-repeat 90% 50%;
 }
 /* cart dropdown content */
 #mainNav #cart div.cart_content {
